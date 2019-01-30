@@ -6,14 +6,11 @@ div#aaSSAMenu ul.aaBodyNav li {
     border: 0px!important;
 }
 
-
 #aaSuperResponsiveContainer #aaSSAMenu .aaBodyNav h4 a {
   background:unset!important;
   border:none!important;
   box-shadow: unset!important;
 }
-
-
 
 #aaSuperResponsiveContainer #aaSSAMenu {
   background: unset!important;
@@ -21,7 +18,7 @@ div#aaSSAMenu ul.aaBodyNav li {
 
 #aaSuperResponsiveContainer #aaSSAMenu .aaBodyNav {
   background: unset!important;
-
+ border: 0px!important;
 }
 
 #aaSSAMenu2 {
