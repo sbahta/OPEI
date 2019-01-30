@@ -1,3 +1,12 @@
+a.aaSSAMenuLink {
+    box-shadow: unset!important;
+}
+ 
+div#aaSSAMenu ul.aaBodyNav li {
+    border: 0px!important;
+}
+
+
 #aaSuperResponsiveContainer #aaSSAMenu .aaBodyNav h4 a {
   background:unset!important;
   border:none!important;
@@ -19,9 +28,6 @@
   border:0px!important;
 }
 
-#aaSSAMenu > ul {
-  border:0px!important;
-}
 
 
 
