@@ -18,6 +18,15 @@
   border:0px!important;
 }
 
+#aaSSAMenu > ul {
+  border:0px!important;
+}
+
+#aaSSAMenu2 > h4 > a {
+
+box-shadow:unset;
+}
+
 
 
 /* Eric Meyer's CSS Reset
