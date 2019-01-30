@@ -1,6 +1,21 @@
 #aaSuperResponsiveContainer #aaSSAMenu .aaBodyNav h4 a {
-  background:none!important;
+  background:unset!important;
   border:none!important;
+}
+
+
+
+#aaSuperResponsiveContainer #aaSSAMenu {
+  background: unset!important;
+}
+
+#aaSuperResponsiveContainer #aaSSAMenu .aaBodyNav {
+  background: unset!important;
+
+}
+
+#aaSSAMenu2 {
+  border:0px!important;
 }
 
 
