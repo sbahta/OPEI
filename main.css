@@ -10,6 +10,12 @@ div#aaSSAMenu ul.aaBodyNav li {
   background:unset!important;
   border:none!important;
   box-shadow: unset!important;
+
+    text-decoration: none;
+    font-family: program, sans-serif;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    color: #00AEEF;
 }
 
 #aaSuperResponsiveContainer #aaSSAMenu {
