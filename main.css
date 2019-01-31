@@ -18,10 +18,6 @@ div#aaCenssaprofileDispProfDtlContactInformation ul.aaFormFields div.aaHeaderwra
     line-height: 1.2em;
 }
  
-#aaSuperResponsiveContainer .aaRsContainer .aaRsSixteen.aaRsColumns {
-    width: 80em;
-    margin-left: -200px;
-}
  
 form.aaCenssaprofileEditForm ul.aaSubmission.aaCenssaprofileSubmit {
     float: right;
@@ -35,7 +31,10 @@ form.aaCenssaprofileEditForm ul.aaSubmission.aaCenssaprofileSubmit {
 }
  
 
-
+#aaSuperResponsiveContainer .aaRsContainer .aaRsSixteen.aaRsColumns {
+width: 110%;
+margin-left: -10%;
+}
 
 
 /*-------- */
