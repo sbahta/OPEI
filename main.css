@@ -41,8 +41,8 @@ margin-left: -10%;
 
 /*-------- */
 
-#aaCenssaprofileDispProfHdrContactInformationEdit {
-    background: url(https://sbahta.github.io/OPEI/images/59ad6813e76f8ca9e37e1dcc6423a9ef.svg) left no-repeat!important;
+#aaCenssaprofileDispProfHdrContactInformationEdit , #aaSubmitButton1Id {
+    background: url(images/59ad6813e76f8ca9e37e1dcc6423a9ef.svg) left no-repeat!important;
     width: 20px;
     height: 20px;
     display: block!important;
@@ -50,6 +50,7 @@ margin-left: -10%;
     background-size: contain!important;
     cursor: pointer!important;
     color: transparent!important;
+    margin-top:2em!important;
 }
  
 input[type="submit"]:hover {
