@@ -1,3 +1,45 @@
+
+
+
+div#aaCenssaprofileDispProfHdrContactInformation form.aaCenssaprofileEditForm > ul.aaSubmission li > input.aaSubmitButton {
+    font-size: 1.2em;
+}
+ 
+div#aaCenssaprofileDispProfDtlContactInformation ul.aaFormFields div.aaHeaderwrapper > div.aaHeading > h3 {
+    font-size: 2em;
+}
+ 
+#aaSuperResponsiveContainer div.aaProfileContentWrapper label {
+    font-size: 1.3em;
+}
+ 
+#aaSuperResponsiveContainer #aaCenssaprofileDispProfDtlContactInformationli table.aaAttrTable, #aaSuperResponsiveContainer #aaCenssaprofileDispProfDtlContactInformation li p {
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
+ 
+#aaSuperResponsiveContainer .aaRsContainer .aaRsSixteen.aaRsColumns {
+    width: 80em;
+    margin-left: -200px;
+}
+ 
+form.aaCenssaprofileEditForm ul.aaSubmission.aaCenssaprofileSubmit {
+    float: right;
+    margin-right: 5rem!important;
+    margin-top: -3rem!important;
+}
+ 
+#aaSuperResponsiveContainer .aaContentBlock-outer:before, #aaSuperResponsiveContainer .aaContentBlock-outer:after, #aaSuperResponsiveContainer .aaStyleOuter:before, #aaSuperResponsiveContainer .aaStyleOuter:after {
+    box-shadow: none!important;
+    -webkit-box-shadow: none!important;
+}
+ 
+
+
+
+
+/*-------- */
+
 a.aaSSAMenuLink {
     box-shadow: unset!important;
 }
