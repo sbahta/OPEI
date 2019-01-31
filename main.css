@@ -4,11 +4,7 @@
 div#aaCenssaprofileDispProfHdrContactInformation form.aaCenssaprofileEditForm > ul.aaSubmission li > input.aaSubmitButton {
     font-size: 1.2em;
 }
- 
-div#aaCenssaprofileDispProfDtlContactInformation ul.aaFormFields div.aaHeaderwrapper > div.aaHeading > h3 {
-    font-size: 2em;
-}
- 
+  
 #aaSuperResponsiveContainer div.aaProfileContentWrapper label {
     font-size: 1.3em;
 }
