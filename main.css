@@ -32,6 +32,59 @@ div#aaSSAMenu ul.aaBodyNav li {
 }
 
 
+body > header > div > nav > div > nav.mainNavPrimary > div > a
+{
+
+}
+
+
+#SignInAndJoinLinks > a {
+  cursor: pointer;
+  background: #00AEEF;
+  background-size: contain;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 20px 50px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: 300px;
+  height: 50px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-family: program, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.0625rem;
+  color: #ffffff; }
+
+#SignInAndJoinLinks > a::after {
+    background: url(images/b22db3c66e6b5127c5577186e87a18d3.svg) center no-repeat;
+    background-size: contain;
+    content: "";
+    width: 15px;
+    height: 15px;
+    margin-left: 10px; }
+
+#SignInAndJoinLinks > a:hover::after {
+    -webkit-animation-name: fastForward;
+            animation-name: fastForward;
+    -webkit-animation-duration: 1.4s;
+            animation-duration: 1.4s;
+    -webkit-animation-delay: 0.2s;
+            animation-delay: 0.2s;
+    -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+            animation-timing-function: linear; }
+
+#SignInAndJoinLinks > a {
+  background-color: transparent;
+  border: solid 4px #ffffff; }
+
+
+
 
 
 /* Eric Meyer's CSS Reset
