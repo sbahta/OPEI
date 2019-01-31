@@ -39,6 +39,29 @@ margin-left: -10%;
 
 /*-------- */
 
+#aaCenssaprofileDispProfHdrContactInformationEdit {
+    background: url(https://sbahta.github.io/OPEI/images/59ad6813e76f8ca9e37e1dcc6423a9ef.svg) left no-repeat!important;
+    width: 20px;
+    height: 20px;
+    display: block!important;
+    border: none!important;
+    background-size: contain!important;
+    cursor: pointer!important;
+    color: transparent!important;
+}
+ 
+input[type="submit"]:hover {
+    box-shadow: none!important;
+}
+ 
+#aaSuperResponsiveContainer .aaContentBlock-outer, #aaSuperResponsiveContainer .aaStyleOuter {
+    box-shadow: none!important;
+    -webkit-box-shadow: none!important;
+    border: none!important;
+}
+
+/*----*/
+
 a.aaSSAMenuLink {
     box-shadow: unset!important;
 }
