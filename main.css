@@ -18,12 +18,14 @@ div#aaCenssaprofileDispProfDtlContactInformation ul.aaFormFields div.aaHeaderwra
     line-height: 1.2em;
 }
  
- 
-form.aaCenssaprofileEditForm ul.aaSubmission.aaCenssaprofileSubmit {
-    float: right;
-    margin-right: 5rem!important;
-    margin-top: -3rem!important;
+
+ form.aaCenssaprofileEditForm ul.aaSubmission.aaCenssaprofileSubmit, ul.aaSubmission.aaCenssaprofileSubmit {
+float: right;
+margin-right: 5rem!important;
+margin-top: -3rem!important;
 }
+
+ 
  
 #aaSuperResponsiveContainer .aaContentBlock-outer:before, #aaSuperResponsiveContainer .aaContentBlock-outer:after, #aaSuperResponsiveContainer .aaStyleOuter:before, #aaSuperResponsiveContainer .aaStyleOuter:after {
     box-shadow: none!important;
