@@ -1,5 +1,9 @@
 
 
+ul,ol{
+  -webkit-font-smoothing: unset!important;
+}
+
 
 div#aaCenssaprofileDispProfHdrContactInformation form.aaCenssaprofileEditForm > ul.aaSubmission li > input.aaSubmitButton {
     font-size: 1.2em;
