@@ -1,5 +1,10 @@
 
 
+#aaSuperResponsiveContainer .aaRsContainer .aaRsSixteen.aaRsColumns {
+  margin-left:unset!important;
+}
+
+
 ul,ol{
   -webkit-font-smoothing: unset!important;
 }
@@ -34,7 +39,7 @@ margin-top: -3rem!important;
  
 
 #aaSuperResponsiveContainer .aaRsContainer .aaRsSixteen.aaRsColumns {
-width: 110%;
+/*width: 110%;*/
 margin-left: -10%;
 }
 
