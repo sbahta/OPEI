@@ -9,7 +9,7 @@ border: 0px;
 /* remove gray background on forms*/
 
 #wwvFlowForm, .t-Body, body {
-    background: unset !important;
+  background: unset !important;
 }
 
 
