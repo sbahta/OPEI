@@ -312,6 +312,8 @@ textarea:focus,
 button:focus {
   outline: none; }
 
+/* sbahta temporary remove input. 
+
 input {
   width: 100%;
   height: 56px;
@@ -321,6 +323,8 @@ input {
   line-height: 1rem;
   color: #000000;
   border: #D8D8D8 1px solid; }
+
+*/
 
 input[type=submit] {
   background: #00AEEF;
