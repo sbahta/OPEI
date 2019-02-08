@@ -1,4 +1,29 @@
 
+
+
+#aaSuperResponsiveContainer .aaContentBlock-outer input.text, 
+#aaSuperResponsiveContainer .aaContentBlock-outer input.email, 
+#aaSuperResponsiveContainer .aaContentBlock-outer input.password, 
+#aaSuperResponsiveContainer .aaContentBlock-outer textarea.uniform, 
+#aaSuperResponsiveContainer .aaStyleOuter input.text, #aaSuperResponsiveContainer .aaStyleOuter input.email, 
+#aaSuperResponsiveContainer .aaStyleOuter input.password, #aaSuperResponsiveContainer .aaStyleOuter textarea.uniform, 
+#aaSuperResponsiveContainer .aaFormFields input.text, #aaSuperResponsiveContainer .aaFormFields input.email, 
+#aaSuperResponsiveContainer .aaFormFields input.password, 
+#aaSuperResponsiveContainer .aaFormFields textarea.uniform,
+#aaSuperResponsiveContainer .aaStyleOuter input[type=text], #aaSuperResponsiveContainer .aaStyleOuter input[type=email], 
+#aaSuperResponsiveContainer .aaStyleOuter input[type=password], 
+#aaSuperResponsiveContainer .aaStyleOuter select multiple
+ {
+  background: unset !important;
+
+}
+
+
+
+
+
+
+
 table#files-uploaded-tbl img {
     display: none;
 }
