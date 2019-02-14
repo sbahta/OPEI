@@ -1,4 +1,19 @@
 
+th#display-ord-hdr, td.display-ord, th#size-hdr, td.size {
+    display: none;
+}
+
+td.short-nm {
+    text-align: left;
+}
+
+tr.internal_table_data {
+    height: 2rem!important;
+}
+
+div#cmtssasgpfile-display a img {display:none;}
+
+
 div#aaCenssaprofileDispProfSbmtBtn {
   text-align: left!important;
 }
