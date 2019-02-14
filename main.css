@@ -132,7 +132,7 @@ border: 0px;
 }
 
 
-ul,ol{
+ul,ol,p {
   -webkit-font-smoothing: unset!important;
 }
 
