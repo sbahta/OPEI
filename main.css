@@ -502,22 +502,23 @@ input[type=submit] {
   .backBtn img {
     width: 12px; }
 
-.textBtn {
+.textBtn, .textBtn a {
   display: inline-flex;
   font-family: program, sans-serif;
   font-size: 1rem;
   line-height: 1rem;
   color: #00AEEF;
   font-weight: 500;
-  text-decoration: none; }
+  text-decoration: none;
+}
+
   .textBtn::after {
     display: block;
     background: url(images/4d64d0a71e6aea01a1144df9c9a9e823.svg) center no-repeat;
     background-size: contain;
     content: "";
     width: 12px;
-    height: 15px;
-    margin-left: 10px; }
+    height: 15px;}
   .textBtn:hover::after {
     -webkit-animation-name: fastForward;
             animation-name: fastForward;
