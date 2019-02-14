@@ -5,13 +5,20 @@
     margin-bottom: 40px;
 }
 
+/*
+.committeeExecutiveMembers {
+    margin-bottom: 35px;
+    padding-bottom: 40px;
+    border-bottom: solid 1px #D8D8D8;
+}*/
+
 
 
 td.cmt-name {
     padding-top: 2.5%!important;
 }
 
-  .committeeExecutiveMembers h3 {
+  .committeeExecutiveMembers h3, .committeeMembers h3  {
     font-family: program, sans-serif;
     font-size: 1.75rem;
     line-height: 1.9375rem;
