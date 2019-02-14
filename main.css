@@ -1322,6 +1322,7 @@ footer a, footer p, footer input, footer textarea {
     background: url(images/8941f67ce213ec5f03747928b0dd248d.png) no-repeat !important;
     background-position: center !important;
     background-size: 20px !important; 
+    border-radius: unset !important;
   }
 
 .footerInfo {
