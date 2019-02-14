@@ -1942,5 +1942,7 @@ footer a, footer p, footer input, footer textarea {
         -webkit-column-count: 1;
                 column-count: 1; } }
     .committeeMembers ul.listLinks li {
-      padding-bottom: initial; }
+      padding-bottom: initial;
+      line-height: 16px; 
+    }
 
