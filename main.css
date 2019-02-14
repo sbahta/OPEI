@@ -1,3 +1,11 @@
+  .committeeExecutiveMembers h3 {
+    font-family: program, sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.9375rem;
+    color: #235C77;
+    font-weight: 500;
+    margin-bottom: 10px; }
+
 
 input#aaCenssaprofileDispProfHdrContactInformationEdit {
     padding: 0px!important;
