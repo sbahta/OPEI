@@ -1923,8 +1923,7 @@ footer a, footer p, footer input, footer textarea {
 .committeeMembers {
   display: flex;
   flex-direction: column; }
-  .committeeMembers h3 {
-    margin-bottom: 30px; }
+
   .committeeMembers ul.listLinks {
     -webkit-column-count: 4;
             column-count: 4;
