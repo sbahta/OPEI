@@ -1,4 +1,13 @@
-  td.cmt-name {
+.committeeExecutiveMembers {
+    border-bottom: solid 1px #D8D8D8;
+    padding-top: 38px;
+    padding-bottom: 35px;
+    margin-bottom: 40px;
+}
+
+
+
+td.cmt-name {
     padding-top: 2.5%!important;
 }
 
