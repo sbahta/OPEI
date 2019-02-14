@@ -1,4 +1,8 @@
 
+input#aaCenssaprofileDispProfHdrContactInformationEdit {
+    padding: 0px!important;
+}
+
 th#display-ord-hdr, td.display-ord, th#size-hdr, td.size {
     display: none;
 }
