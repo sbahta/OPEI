@@ -1314,14 +1314,15 @@ footer a, footer p, footer input, footer textarea {
       line-height: 0.9375rem;
       color: #ffffff; }
   .footerSignUpForm input[type=submit] {
-    border: solid 2px #ffffff;
+    border: solid 2px #ffffff !important;
     cursor: pointer;
     width: 50px;
     height: 44px;
-    border-left: none;
-    background: url(images/8941f67ce213ec5f03747928b0dd248d.png) no-repeat;
-    background-position: center;
-    background-size: 20px; }
+    border-left: none !important;
+    background: url(images/8941f67ce213ec5f03747928b0dd248d.png) no-repeat !important;
+    background-position: center !important;
+    background-size: 20px !important; 
+  }
 
 .footerInfo {
   color: #ffffff;
