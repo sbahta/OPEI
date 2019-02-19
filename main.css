@@ -1,5 +1,5 @@
-#aaSuperResponsiveContainer th, #aaSuperResponsiveContainer td {
-  vertical-align: unset !important;
+#files-uploaded-tbl #aaSuperResponsiveContainer th, #files-uploaded-tbl #aaSuperResponsiveContainer td {
+  vertical-align: bottom !important;
 }
 
 .committeeExecutiveMembers {
