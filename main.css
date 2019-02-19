@@ -80,7 +80,7 @@ div#aaCenssaprofileDispProfSbmtBtn {
 
 
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
     background-image: none;
     background-color: #FAFAFA;
 }
