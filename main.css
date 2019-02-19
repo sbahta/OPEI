@@ -6,7 +6,7 @@ tr.internal_table_hdr {
   text-align: left;
 }
 
-#files-uploaded-tbl #aaSuperResponsiveContainer th, #files-uploaded-tbl #aaSuperResponsiveContainer td {
+#files-uploaded-tbl th, #files-uploaded-tbl td {
   vertical-align: bottom !important;
 }
 
