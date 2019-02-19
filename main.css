@@ -18,6 +18,18 @@ tr.internal_table_hdr {
     margin-bottom: 40px;
 }
 
+
+#files-uploaded-tbl td {
+    font-size: 1rem;
+    color: #5C5C5C;
+    min-height: 75px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 1px #D8D8D8;
+}
+
+
 /*
 .committeeExecutiveMembers {
     margin-bottom: 35px;
