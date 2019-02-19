@@ -80,6 +80,12 @@ div#aaCenssaprofileDispProfSbmtBtn {
 
 
 
+tr:nth-child(even) {
+    background-image: none;
+    background-color: #FAFAFA;
+}
+
+
 tr.internal_table_hdr {
     background-color: #F5F5F5;
 }
