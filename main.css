@@ -44,8 +44,6 @@ tr.internal_table_data {
     height: 2rem!important;
 }
 
-div#cmtssasgpfile-display a img {display:none;}
-
 
 div#aaCenssaprofileDispProfSbmtBtn {
   text-align: left!important;
@@ -1874,7 +1872,7 @@ footer a, footer p, footer input, footer textarea {
   line-height: 1.6875rem;
   color: #5C5C5C; }
 
-.committeesHeaderList h2 {
+.committeesHeaderList h2, #cmt-name-hdr {
   font-family: program, sans-serif;
   font-size: 2.6875rem;
   line-height: 2.6875rem;
