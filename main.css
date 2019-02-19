@@ -1,3 +1,85 @@
+
+
+#aaSuperResponsiveContainer .aaRsContainer .aaRsSixteen.aaRsColumns {
+  margin-left:unset!important;
+}
+#aaSuperResponsiveContainer .aaRsContainer {
+width:unset !important;
+}
+
+.a-IRR-headerLink, .a-IRR-headerLink:hover {
+    text-decoration: none;
+    color: #235C77;
+    /*border-bottom: solid 1px #B5CB19;*/
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+.a-IRR-table tr td {
+    background-color: #fff;
+    color: #404040;
+    font-size: 1rem;
+    color: #5C5C5C;
+    min-height: 75px;
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 1px #D8D8D8;
+}
+
+#aaSuperResponsiveContainer th {
+    font-weight: bold;
+    padding: 12px;
+    text-decoration: none;
+    color: #235C77;
+    border-bottom: solid 1px #B5CB19;
+    font-weight: 500;
+}
+
+.aaProfileDataWrapper {
+   display:inline-flex !important;
+}
+
+#aaSuperResponsiveContainer #aaCenssaprofileDispProfDtlContactInformation li p, #aaSuperResponsiveContainer #aaCenssaprofileUpdProfTblContactInformation li p  {
+   display:inline !important;
+}
+
+
+#aaSuperResponsiveContainer div#aaCenssaDispProfWrapper label, #aaCenssaprofileUpdProfTblContactInformation label {
+  display:unset !important;
+    font-weight: 500;
+}
+
+#aaProfileAddress, #aaProfilePhone, #aaProfileCyber, #aaProfileAttr {
+    border-top: solid 1px #D8D8D8;
+    margin-top: 20px !important;
+    padding-top: 20px !important;
+}
+
+div#aaCenssaprofileDispProfSbmtBtn {
+ margin-top:60px !important;
+
+}
+
+#aaSuperResponsiveContainer .aaStyleOuter p  {
+    font-size: 1.25rem;
+    line-height: 1.6875rem
+}
+
+#aaSuperResponsiveContainer .aaToolTipTrigger {
+ margin:2rem 0rem 1rem 0rem;
+}
+
+#aaCMTLookupTitle_toolbar {
+/* display:none !important;*/
+}
+
+
+
+
+
+
 tr.internal_table_hdr {
     background-color: #F5F5F5;
 }
