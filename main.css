@@ -1,3 +1,11 @@
+tr.internal_table_hdr {
+    background-color: #F5F5F5;
+}
+
+#short-nm-hdr {
+  text-align: left;
+}
+
 #files-uploaded-tbl #aaSuperResponsiveContainer th, #files-uploaded-tbl #aaSuperResponsiveContainer td {
   vertical-align: bottom !important;
 }
