@@ -588,6 +588,9 @@ input[type=submit] {
 
 #cmt-name-hdr {
   margin-top: 1.5rem;
+  border-bottom: solid 1px #D8D8D8;
+  padding-bottom: 35px;
+  margin-bottom: 40px;
 }
 
 /*  .twoColumnLayout .column1 h2 {
